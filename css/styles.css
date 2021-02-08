@@ -1,0 +1,13 @@
+body {
+    background-color: #D3E0EA;
+}
+
+#title {
+    font-family: 'Days One', sans-serif;
+    color: rgb(61, 61, 61);
+    font-weight: 20px;
+}
+img {
+    border-radius: 10px;
+    margin: auto;
+}
