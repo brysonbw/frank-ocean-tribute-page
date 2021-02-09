@@ -1,1 +1,1 @@
-Frank Ocean Tribute Page
+Mini-Project: Frank Ocean Tribute Page

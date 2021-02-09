@@ -1,5 +1,5 @@
 body {
-    background-color: #D3E0EA;
+    background-color: #F5F4F4;
 }
 
 #title {
@@ -11,3 +11,9 @@ img {
     border-radius: 10px;
     margin: auto;
 }
+#main {
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
