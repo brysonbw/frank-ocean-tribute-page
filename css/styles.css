@@ -1,5 +1,7 @@
 body {
     background-color: #F5F4F4;
+    text-align: center;
+    margin: 0;
 }
 
 #title {
@@ -9,11 +11,9 @@ body {
 }
 img {
     border-radius: 10px;
-    margin: auto;
-}
-#main {
-  max-width: 1000px;
-  margin: auto;
-  text-align: center;
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
 }
 
